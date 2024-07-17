@@ -40,7 +40,8 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 -->
 
  # Socials:
- My YouTube account for my personal projects and 
+ My YouTube account for my projects 
+ <br/> 
  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dev_with_Sel)
  #
 
