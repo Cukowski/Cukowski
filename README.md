@@ -33,7 +33,14 @@ Here are some ideas to get you started:
  -  Implementation of [BlockChain](https://github.com/SoraiaBarroso/Blockchain-Project).
 -->
 
+<!-- 
+GitHub Profile Readme Generator
+https://www.youtube.com/watch?v=KhGWbt1dAKQ&t=44s
+https://arturssmirnovs.github.io/github-profile-readme-generator/
+-->
+
  # Socials:
+ My YouTube account for my personal projects and 
  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dev_with_Sel)
  #
 
