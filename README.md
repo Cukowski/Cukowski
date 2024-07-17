@@ -38,5 +38,5 @@ Here are some ideas to get you started:
  #
 
 # GitHub Stats:
-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cukowski&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cukowski&show_icons=true&theme=synthwave)
+* ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cukowski&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+* ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cukowski&show_icons=true&theme=synthwave)
