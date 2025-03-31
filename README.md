@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 - 👨‍💻 I’m a Software Engineering and Computer Science student 
-- 🤓 Interested in C, C++, Python, JavaScript and Unreal Engine 5. 
+- 🤓 Interested in C, C++, Python, JavaScript, Godot and Unreal Engine 5. 
 - 🌱 I’m currently improving my C++ skills.
 
 <!-- 
@@ -40,12 +40,15 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 -->
 
  # Socials:
- My YouTube account for my projects 
+ Check out my YouTube account for my projects and tutorials!
  <br/> 
  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dev_with_Sel)
  #
 
+
 # GitHub Stats:
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cukowski&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
  <br/> 
+<!--
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cukowski&show_icons=true&theme=synthwave)
+-->
