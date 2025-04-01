@@ -1,14 +1,14 @@
 ## 👋 Welcome, curious wanderer!
 
-I'm **Cukowski**, a software engineer by trade, an existential tinkerer by night.  
-Currently navigating the realms of **C++**, **Python**, and **game development** with **Godot** and **Unreal Engine 5**.  
+I'm **Selçuk Ata**, a software engineer by trade, an existential tinkerer by night.  
+Currently navigating the realms of **C++**, **Python**, and **game development** with **Godot**.  
 My passion lies in crafting clever systems, solving weird problems, and building things that (hopefully) make people think.
 
 ---
 
 ### 🧠 What I'm up to
-- 🎓 Final-year student of Software Engineering & Computer Science  
-- 🔧 Currently refining my C++ skills & mastering low-level programming  
+- 🎓 Final-year student of Software Engineering and a newbie in the business world  
+- 🔧 Currently refining my C++ skills & mastering low-level programming 
 - 🎮 Building game projects in Unreal and Godot (code meets chaos)  
 - 📼 Sharing tutorials & devlogs on [YouTube](https://www.youtube.com/@Dev_with_Sel)
 
@@ -18,8 +18,8 @@ My passion lies in crafting clever systems, solving weird problems, and building
 - 🐚 A custom UNIX shell in C — because reinventing the wheel is a rite of passage  
 - 🌐 A self-built FTP server with multi-threading and RFC959 compliance 
 - 🧩 A maze solver using BFS & recursive backtracking in C  
-- 🧩 TicTacToe games from different perspectives in C
-- So many C tutorials, most won't even check
+- 🎮 TicTacToe games from different perspectives in C
+- 💻 So many C tutorials, most won't even check
 
 > *“Not all code needs a purpose — some is just poetry with logic.”*
 
