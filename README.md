@@ -15,8 +15,10 @@ My passion lies in crafting clever systems, solving weird problems, and building
 ---
 
 ### 🚀 Projects & Explorations
+- 🧠 A custom Redis server built in C++ with command parsing, data persistence, and RESP protocol handling
+- 🧰 A lightweight Redis client in C++ with interactive CLI and command parsing  
 - 🐚 A custom UNIX shell in C — because reinventing the wheel is a rite of passage  
-- 🌐 A self-built FTP server with multi-threading and RFC959 compliance 
+- 🌐 A self-built FTP server with multi-threading and RFC959 compliance
 - 🧩 A maze solver using BFS & recursive backtracking in C  
 - 🎮 TicTacToe games from different perspectives in C
 - 💻 So many C tutorials, most won't even check
