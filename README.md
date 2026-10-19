@@ -1,42 +1,36 @@
-## 👋 Welcome, curious wanderer!
+# Selçuk Ata Aksoy
 
-I'm **Selçuk Ata**, a software engineer by trade, an existential tinkerer by night.  
-Currently navigating the realms of **C++**, **Python**, and **game development** with **Godot**.  
-My passion lies in crafting clever systems, solving weird problems, and building things that (hopefully) make people think.
+Software developer working on engineering software at **[enGits](https://www.engits.com/en/)**, with a focus on **C/C++, Python, testing and Windows/Linux compatibility**.
 
----
+At enGits, I work daily with C++ and CUDA-based software, including DrNUM. My work includes building a testing repository for engineering tools, contributing cross-platform fixes to the enGits Data Library, working on vcpkg integration and troubleshooting software and IT systems.
 
-### 🧠 What I'm up to
-- 🎓 Final-year student of Software Engineering and a newbie in the business world  
-- 🔧 Currently refining my C++ skills & mastering low-level programming 
-- 🎮 Building game projects in Unreal and Godot (code meets chaos)  
-- 📼 Sharing tutorials & devlogs on [YouTube](https://www.youtube.com/@Dev_with_Sel)
+I like understanding how things work beneath the surface, then building something useful with that understanding.
 
----
+## Selected projects
 
-### 🚀 Projects & Explorations
-- 🧠 A custom Redis server built in C++ with command parsing, data persistence, and RESP protocol handling
-- 🧰 A lightweight Redis client in C++ with interactive CLI and command parsing  
-- 🐚 A custom UNIX shell in C — because reinventing the wheel is a rite of passage  
-- 🌐 A self-built FTP server with multi-threading and RFC959 compliance
-- 🧩 A maze solver using BFS & recursive backtracking in C  
-- 🎮 TicTacToe games from different perspectives in C
-- 💻 So many C tutorials, most won't even check
+| Project | What it explores |
+| --- | --- |
+| [Redis-compatible server](https://github.com/Cukowski/Redis-Server) | Educational C++ server using TCP sockets, RESP parsing, concurrent clients and disk persistence. Includes a test script and a video series. |
+| [FTP server and client](https://github.com/Cukowski/My_FTP_Server_and_Client) | Educational C++ networking project with threaded client handling and active/passive file transfers. Implements a subset of FTP. |
+| [Network intrusion detection study](https://github.com/Cukowski/Low-Level-Traffic-IDS) | Python comparison of Logistic Regression and Random Forest on CICIDS2017, including held-out-file validation and analysis of false positives and missed attacks. |
+| [Cosmic Playground](https://github.com/Cukowski/Cosmic-Playground) | Interactive C++ gravity simulation using SFML, ImGui and CMake. |
+| [No Built-ins Allowed](https://github.com/Cukowski/no-builtins-allowed) | Companion code for tutorials exploring familiar programming operations by implementing them in C. |
 
-> *“Not all code needs a purpose — some is just poetry with logic.”*
+## Engineering experience
 
----
+- Software testing and maintenance for DrNUM, DucsiFlow and the enGits Data Library.
+- Cross-platform development, build troubleshooting and open-source installation tooling.
+- Simulation support using FreeCAD, PrePoMax and scripts to compare FEA scenarios.
+- AI-assisted development with Codex and Claude, with attention to requirements and verification.
 
-### 📊 GitHub Stats
+## Teaching and learning
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cukowski&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+I explain C and C++ projects on **[Dev with Sel](https://www.youtube.com/@Dev_with_Sel/)**. The channel has **1,000+ subscribers**, and the Redis server/client tutorials have received **25,000+ combined views** (October 2026 analytics).
 
----
+I have completed the academic requirements for Software Engineering at Amsterdam Tech; diploma issuance is pending. I am also studying International Business Information Systems at Furtwangen University.
 
-### 🔗 Connect with me
+## Next step
 
-[![YouTube](https://img.shields.io/badge/YouTube-Dev_with_Sel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dev_with_Sel)
+I am looking for a **company-based bachelor's thesis**, with the possibility of continuing in the team afterwards. My main interests are engineering software, cybersecurity and aerospace. Based in Germany and open to relocation within Germany.
 
-<!-- 
-✨ This README is a living document. Expect it to evolve.
--->
+[LinkedIn](https://www.linkedin.com/in/selcuk-ata-aksoy/) · [YouTube](https://www.youtube.com/@Dev_with_Sel/) · [Email](mailto:sel.ataaksoy@hotmail.com)
