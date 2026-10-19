@@ -2,7 +2,7 @@
 
 Software developer working on engineering software at **[enGits](https://www.engits.com/en/)**, with a focus on **C/C++, Python, testing and Windows/Linux compatibility**.
 
-At enGits, I work daily with C++ and CUDA-based software, including DrNUM. My work includes building a testing repository for engineering tools, contributing cross-platform fixes to the enGits Data Library, working on vcpkg integration and troubleshooting software and IT systems.
+At enGits, I support engineering software development, testing and Windows/Linux compatibility, including work with DrNUM and DucsiFlow. I also contribute to the publicly released enGits Data Library and open-source tooling.
 
 I like understanding how things work beneath the surface, then building something useful with that understanding.
 
@@ -20,8 +20,10 @@ I like understanding how things work beneath the surface, then building somethin
 
 - Software testing and maintenance for DrNUM, DucsiFlow and the enGits Data Library.
 - Cross-platform development, build troubleshooting and open-source installation tooling.
-- Simulation support using FreeCAD, PrePoMax and scripts to compare FEA scenarios.
-- AI-assisted development with Codex and Claude, with attention to requirements and verification.
+- General simulation support and practical IT troubleshooting.
+
+
+Tools I use in my own projects include Codex and Claude, with attention to requirements and verification.
 
 ## Teaching and learning
 
